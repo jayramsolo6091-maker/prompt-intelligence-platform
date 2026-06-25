@@ -3,24 +3,37 @@
 <img width="1870" height="828" alt="Screenshot 2026-06-24 125444" src="https://github.com/user-attachments/assets/0e7245f3-d569-4897-8ad9-f7946002fc7c" />
 # Prompt Intelligence Platform
 
-A local AI-powered prompt optimizer built using:
+# 🚀 Prompt Intelligence Platform
 
-- Python
-- Streamlit
-- Ollama
-- Gemma 3
+An AI-powered prompt optimization tool built using Streamlit, Ollama, and Gemma 3.
 
 ## Features
 
-- Prompt Analysis
-- Intent Detection
-- Context Gap Detection
-- Prompt Optimization
-- Multiple Optimization Modes
-- Local AI (No API Costs)
+* 🎯 Intent Classification
+* 🧩 Context Gap Detection
+* 📊 Prompt Analysis
+* ✨ Prompt Optimization
+* 🔄 Multiple Optimization Modes
+* 💻 Fully Local AI (No API Costs)
 
-## Run
+## Tech Stack
 
+* Python
+* Streamlit
+* Ollama
+* Gemma 3:4B
+
+## Installation
+
+```bash
 pip install -r requirements.txt
-
 streamlit run app.py
+```
+
+## Future Improvements
+
+* Prompt History
+* Analytics Dashboard
+* Template Library
+* Desktop Application (.exe)
+
